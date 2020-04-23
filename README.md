@@ -1,1 +1,1 @@
-# Custormet-Segmentation
+# Customer-Segmentation
